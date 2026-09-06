@@ -1,0 +1,13 @@
+Model,Dataset,Accuracy,Precision,Recall,F1_Score
+Naive Bayes,Dataset 1,0.83,0.83,0.83,0.84
+Naive Bayes,Dataset 2,0.83,0.83,0.83,0.83
+Logistic Regression,Dataset 1,0.79,0.7924,0.79,0.788
+Logistic Regression,Dataset 2,0.85,0.85,0.85,0.86
+Support Vector Machine,Dataset 1,0.83,0.832,0.83,0.83
+Support Vector Machine,Dataset 2,0.86,0.86,0.86,0.87
+BERT,Dataset 1,0.87,0.87,0.86,0.87
+BERT,Dataset 2,0.87,0.88,0.87,0.87
+DistilBERT,Dataset 1,0.83,0.84,0.83,0.83
+DistilBERT,Dataset 2,0.52,0.62,0.53,0.51
+Ensemble,Dataset 1,0.85,0.85,0.85,0.85
+Ensemble,Dataset 2,0.51,0.34,0.51,0.4
